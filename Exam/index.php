@@ -49,7 +49,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="form-group">
   <label class="col-md-3 control-label" for="email"></label>  
   <div class="col-md-6">
-  <input id="email" name="email" placeholder="Enter your email-id" class="form-control input-md" type="email">
+  <input id="email" name="email" placeholder="Enter your email " class="form-control input-md" type="email">
     
   </div>
 </div>
@@ -90,6 +90,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 
 
 <!-- Text input-->
+
 <div class="form-group">
   <label class="col-md-12 control-label" for="name"></label>  
   <div class="col-md-12">
@@ -97,7 +98,6 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
     
   </div>
 </div>
-
 <!-- Text input-->
 <div class="form-group">
   <label class="col-md-12 control-label" for="gender"></label>
